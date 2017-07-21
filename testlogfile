@@ -1,0 +1,170 @@
+[GIN] 2017/07/20 - 08:40:33 | 201 [0m|    109.1752ms |             ::1 |  POST [0m    /v1/products
+[GIN] 2017/07/20 - 08:40:33 | 201 [0m|    110.1773ms |             ::1 |  POST [0m    /v1/products
+Env conteudo root
+Env conteudo root
+Env conteudo root
+[GIN] 2017/07/20 - 08:41:49 | 201 [0m|      58.102ms |             ::1 |  POST [0m    /v1/products
+[GIN] 2017/07/20 - 08:41:49 | 201 [0m|     58.6213ms |             ::1 |  POST [0m    /v1/products
+Env conteudo root
+[GIN] 2017/07/20 - 08:42:09 | 400 [0m|     80.7802ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 08:42:09 | 400 [0m|     80.7802ms |             ::1 |  GET [0m    /v1/products
+Env conteudo root
+[GIN] 2017/07/20 - 08:42:31 | 400 [0m|     17.3237ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 08:42:31 | 400 [0m|     17.8239ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 
+[GIN] 2017/07/20 - 10:11:45 | 401 [0m|    351.4989ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:11:45 | 401 [0m|    352.4698ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 
+[GIN] 2017/07/20 - 10:21:28 | 401 [0m|    7.4282529s |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:21:28 | 401 [0m|    7.4282529s |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 1234
+[GIN] 2017/07/20 - 10:25:33 | 401 [0m|    349.9598ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:25:33 | 401 [0m|    350.9577ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 
+[GIN] 2017/07/20 - 10:26:49 | 401 [0m|    312.6517ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:26:49 | 401 [0m|    312.6517ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 
+[GIN] 2017/07/20 - 10:28:33 | 401 [0m|    283.2638ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:28:33 | 401 [0m|    283.2638ms |             ::1 |  GET [0m    /v1/products
+Env conteudo 
+[GIN] 2017/07/20 - 10:28:55 | 401 [0m|     262.783ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:28:55 | 401 [0m|     262.783ms |             ::1 |  GET [0m    /v1/products
+Env conteudo 
+[GIN] 2017/07/20 - 10:29:09 | 401 [0m|    245.3897ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:29:09 | 401 [0m|    246.4142ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 7777
+[GIN] 2017/07/20 - 10:30:04 | 401 [0m|     326.559ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:30:04 | 401 [0m|     326.559ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo 
+[GIN] 2017/07/20 - 10:30:40 | 401 [0m|    355.1761ms |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 10:30:40 | 401 [0m|    356.1674ms |             ::1 |  GET [0m    /v1/products
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo root
+[GIN] 2017/07/20 - 12:01:36 | 400 [0m|   43.1417637s |             ::1 |  GET [0m    /v1/products
+[GIN] 2017/07/20 - 12:01:36 | 400 [0m|   43.1417637s |             ::1 |  GET [0m    /v1/products
+Env conteudo root
+Env conteudo root
+[GIN] 2017/07/20 - 12:01:51 | 200 [0m|     55.0405ms |             ::1 |  GET [0m    /v1/products/1
+[GIN] 2017/07/20 - 12:01:51 | 200 [0m|      56.038ms |             ::1 |  GET [0m    /v1/products/1
+Env conteudo root
+Env conteudo root
+[GIN] 2017/07/20 - 12:02:08 | 200 [0m|     12.0067ms |             ::1 |  GET [0m    /v1/products/1
+[GIN] 2017/07/20 - 12:02:08 | 200 [0m|     12.0067ms |             ::1 |  GET [0m    /v1/products/1
+Env conteudo root
+[GIN] 2017/07/20 - 17:52:38 | 401 [0m|    2.7176974s |             ::1 |  GET [0m    /v1/products/5
+[GIN] 2017/07/20 - 17:52:38 | 401 [0m|    2.7176974s |             ::1 |  GET [0m    /v1/products/5
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo root
+[GIN] 2017/07/20 - 17:54:56 | 401 [0m|    274.6404ms |             ::1 |  GET [0m    /v1/products/5
+[GIN] 2017/07/20 - 17:54:56 | 401 [0m|    274.6404ms |             ::1 |  GET [0m    /v1/products/5
+--->   UP @ 3001  <------
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] POST   /v1/products              --> gitlab.com/guszak/test/handlers.CreateProduct (6 handlers)
+[GIN-debug] GET    /v1/products              --> gitlab.com/guszak/test/handlers.QueryProducts (6 handlers)
+[GIN-debug] GET    /v1/products/:id          --> gitlab.com/guszak/test/handlers.GetProduct (6 handlers)
+[GIN-debug] PUT    /v1/products/:id          --> gitlab.com/guszak/test/handlers.UpdateProduct (6 handlers)
+[GIN-debug] DELETE /v1/products/:id          --> gitlab.com/guszak/test/handlers.DeleteProduct (6 handlers)
+Env conteudo root
+[GIN] 2017/07/20 - 17:56:06 | 401 [0m|    1.0580837s |             ::1 |  GET [0m    /v1/products/5
+[GIN] 2017/07/20 - 17:56:06 | 401 [0m|    1.0580837s |             ::1 |  GET [0m    /v1/products/5
